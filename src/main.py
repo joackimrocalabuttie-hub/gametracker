@@ -1,8 +1,8 @@
-from src.extract import extract
-from src.transform import transform_players, transform_scores
-from src.load import load_players, load_scores
-from src.report import generate_report
-from src.database import database_connection
+from extract import extract
+from transform import transform_players, transform_scores
+from load import load_players, load_scores
+from database import database_connection
+from report import generate_report
 
 def main():
     try:

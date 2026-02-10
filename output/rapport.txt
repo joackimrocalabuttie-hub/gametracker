@@ -1,0 +1,30 @@
+=== RAPPORT GAMETRACKER ===
+Généré le : 2026-02-10 14:06:34
+
+--- STATISTIQUES GENERALES ---
+Nombre de joueurs : 25
+Nombre de scores  : 36
+Nombre de jeux    : 3
+
+--- TOP 5 SCORES ---
+- DarkPhoenix sur SpaceInvaders : 22500
+- DragonSlayer99 sur SpaceInvaders : 21000
+- QuantumLeap sur SpaceInvaders : 20200
+- FrostBite sur SpaceInvaders : 19400
+- CyberNinja sur SpaceInvaders : 18500
+
+--- SCORE MOYEN PAR JEU ---
+- SpaceInvaders : 15850.00
+- TetrisUltra : 8030.00
+- MarioKart : 8640.00
+
+--- JOUEURS PAR PAYS ---
+- France : 15
+- Belgique : 4
+- Suisse : 3
+- Canada : 3
+
+--- PAR PLATEFORME ---
+- PC : 19
+- Console : 12
+- Mobile : 5
